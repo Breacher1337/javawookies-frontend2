@@ -1,0 +1,53 @@
+.card-header.bg-cookie:hover {
+    background-color: #8B4513 !important;
+    color: white !important;
+    cursor: default;
+}
+
+.text-cookie-title {
+    color: #c77b30;
+}
+
+.bg-cookie {
+    background-color: #c77b30 !important;
+}
+
+.text-cookie {
+    color: #c77b30 !important;
+}
+
+.table-row-hover:hover {
+    background-color: #fff4ec !important;
+    transition: 0.2s ease;
+}
+
+.btn-success {
+    background-color: #4caf50 !important;
+    border: none;
+    transition: 0.2s ease;
+}
+
+.btn-success:hover {
+    background-color: #43a047 !important;
+    transform: scale(1.03);
+}
+
+input:focus {
+    outline: none !important;
+    box-shadow: 0 0 5px rgba(199, 123, 48, 0.5) !important;
+}
+
+.input-group-text.bg-cookie {
+    background-color: #8B4513 !important;
+    color: white !important;
+    transition: none !important;
+}
+
+.input-group-text.bg-cookie:hover,
+.input-group-text.bg-cookie:focus,
+.input-group-text.bg-cookie:active {
+    background-color: #8B4513 !important;
+    color: white !important;
+    box-shadow: none !important;
+    border-color: transparent !important;
+}

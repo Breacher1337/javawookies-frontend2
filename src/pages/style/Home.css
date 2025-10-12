@@ -1,0 +1,36 @@
+.hero-1 {
+    height: 100vh;
+    background:
+            linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+            url('../../assets/background.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.text-cookie-title {
+    color: #8B4513 !important;
+}
+
+.bg-cookie {
+    background-color: #8B4513 !important;
+    color: #fff !important;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.bg-cookie:hover {
+    background-color: #fff !important;
+    color: #8B4513 !important;
+    border: 1px solid #8B4513 !important;
+}
+
+.text-cookie:hover {
+    background-color: #8B4513 !important;
+    color: #fff !important;
+    border-color: #8B4513 !important;
+}
+
+.border-cookie {
+    border: 1px solid #8B4513 !important;
+}
