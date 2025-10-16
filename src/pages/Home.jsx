@@ -19,10 +19,10 @@ const Home = () => {
                                     <i className="fas fa-box me-2"></i>
                                     View Orders
                                 </Link>
-                                <Link to="/orders/new" className="btn btn-outline-light btn-lg shadow-sm text-cookie border-cookie">
+                                {/* <Link to="/orders/new" className="btn btn-outline-light btn-lg shadow-sm text-cookie border-cookie">
                                     <i className="fas fa-plus-circle me-2"></i>
                                     Create New Order
-                                </Link>
+                                </Link> */}
                             </div>
                         </div>
                     </div>
